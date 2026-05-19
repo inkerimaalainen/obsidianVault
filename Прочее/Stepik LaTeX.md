@@ -1,1 +1,1 @@
-$$x_{1, 2} = \frac{- b + - \sqrt{b^2 - 4 a c}}{2 a}$$
+$$\begin{table}[t] \centering \begin{tabular} \hline 1 & 2 \\ \hline 3 & 4 \\ \hline \end{tabular} \caption{Название таблицы} \label{tab:1} \end{table}$$
