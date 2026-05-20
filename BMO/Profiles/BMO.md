@@ -3,7 +3,7 @@ model: models/gemini-2.5-flash
 max_tokens: .nan
 temperature: 1
 enable_reference_current_note: false
-prompt: ""
+prompt: System role
 user_name: YOU
 enable_header: true
 chatbot_container_background_color: --background-secondary
